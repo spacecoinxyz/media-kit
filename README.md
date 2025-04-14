@@ -1,27 +1,107 @@
-# Spacecoin media kit
+![alt text](image-1.png)
 
-Welcome! You can find all branding assets related to the space coin brand in this repository. All files are in two formats: SVG and PNG. 
+# SpaceComputer Brand & Media Kit
 
-<img width="806" alt="image" src="https://github.com/spacecoinxyz/media-kit/assets/90852205/78176225-7cdd-4248-9990-c720bf89c17b">
+Welcome to the official SpaceComputer brand repository. This kit contains all assets needed to represent SpaceComputer consistently across different platforms and media formats.
 
+## Brand Colors
 
-## Helpful
-Our logo consists of a wordmark and a logo symbol. It should always be reproduced consistently. Our logo needs to be seen, should never be crowded by other elements on the page, and should always have an area of clear space around it.   
+| Color | Hex Code |
+|-------|----------|
+| Black | #000000 |
+| White | #FFFFFF |
+| Text Secondary | #A7A7A7 |
+| Yellow | #FDD400 |
+| Background | #121003 |
 
-## Avoid
-Avoid distorting, modifying, or resizing the logo that would affect its proportions. The color and the surrounding space of the logo should remain unchanged. Ensure the logo's legibility across all marketing materials.
+## Assets Overview
 
-## Contents
+All assets are available in both vector (SVG) and raster (PNG) formats to ensure high-quality representation in any context.
 
-### 1) logo
-The simple spacecoin logo can be in several color variants (brown, black, white, yellow), including transparent versions. 
-![image](https://github.com/spacecoinxyz/media-kit/assets/90852205/e6495e9a-748f-4549-b39f-f818c8b9e198)
+### Asset Types Explained
 
+- **Logomark**: The standalone SpaceComputer symbol/icon without text
+- **Horizontal**: The full SpaceComputer logo with text and symbol arranged horizontally
+- **Light/Dark/Yellow**: Color variants optimized for different backgrounds and usage scenarios
 
-### 2) wordmark/logotype
-spacecoin + logo = wordmark. Present in the same color variants as the logo. 
+### File Structure
 
-![image](https://github.com/spacecoinxyz/media-kit/assets/90852205/71938f68-d37b-42bc-af52-cad18323180d)
+```
+/logo
+  /png
+    - SpaceComputer_horizontal_dark.png    (Full logo with text on light backgrounds)
+    - SpaceComputer_horizontal_light.png   (Full logo with text on dark backgrounds)
+    - SpaceComputer_horizontal_yellow.png  (Full logo with text in yellow variant)
+    - SpaceComputer_Logomark_dark.png      (Symbol only for light backgrounds)
+    - SpaceComputer_Logomark_light.png     (Symbol only for dark backgrounds)
+    - SpaceComputer_Logomark_yellow.png    (Symbol only in yellow variant)
+    - SpaceComputer_banner.png             
+  /svg
+    - SpaceComputer_horizontal_dark.svg    (Vector full logo for light backgrounds)
+    - SpaceComputer_horizontal_light.svg   (Vector full logo for dark backgrounds)
+    - SpaceComputer_horizontal_yellow.svg  (Vector full logo in yellow)
+    - SpaceComputer_Logomark_dark.svg      (Vector symbol for light backgrounds)
+    - SpaceComputer_Logomark_light.svg     (Vector symbol for dark backgrounds)
+    - SpaceComputer_Logomark_yellow.svg    (Vector symbol in yellow)
+```
 
-### 3) socials
-Twitter header and Twitter logo
+## Usage Guidelines
+
+### Logo Usage
+
+Our brand identity consists of two key elements:
+- **Logomark**: The distinctive SpaceComputer symbol that can be used on its own when space is limited or the brand is already well understood in context
+- **Horizontal Logo**: The complete logo with the SpaceComputer name and symbol side by side for primary brand identification
+
+### When to Use Each Asset
+
+- **Logomark**: Use for app icons, favicons, social media profiles, or when space is limited
+- **Horizontal Logo**: Use as the primary logo for most applications including websites, marketing materials, and documentation
+- **Banner**: Use for social media headers, email signatures, or promotional materials
+- **Dark Variants**: Use on light backgrounds (white or light colors)
+- **Light Variants**: Use on dark backgrounds (black or dark colors)
+- **Yellow Variants**: Use for high-impact applications or when you want to emphasize the brand
+
+### Clear Space
+
+Always maintain adequate clear space around the logo to ensure visibility and impact. The minimum clear space should be equivalent to the height of the logomark on all sides.
+
+### Size Requirements
+
+To maintain legibility, never display the logo smaller than:
+- 24px height for digital use
+- 8mm height for print applications
+
+### Do's and Don'ts
+
+✅ **Do**:
+- Use the provided files without modification
+- Maintain the logo's proportions when scaling
+- Use the appropriate color variant for your background
+- Maintain adequate clear space around the logo
+
+❌ **Don't**:
+- Distort or stretch the logo
+- Change the logo colors outside of the provided variants
+- Add effects such as shadows, outlines, or gradients
+- Place the logo on busy backgrounds that reduce visibility
+- Rotate or reposition elements of the logo
+
+## Applications
+
+### Website & Digital
+
+For digital applications, SVG format is recommended for optimal scaling and quality. Use the horizontal logo in headers and primary branding areas, and the logomark for favicon and mobile applications.
+
+### Print
+
+For print applications, high-resolution PNG files are suitable. Ensure the logo is sized appropriately for the medium. For large format printing, SVG files can be converted to appropriate formats by your print provider.
+
+### Social Media
+
+Profile pictures: Use the logomark (square format) variants.
+Headers and banners: Use the horizontal logo or banner formats depending on the platform requirements.
+
+---
+
+For questions about SpaceComputer brand usage or to request additional assets, please open an issue in this repository.
